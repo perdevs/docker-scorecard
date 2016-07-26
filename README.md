@@ -1,2 +1,1 @@
-# docker-scorecard
-Docker for Scorecard
+# docker-perseus
